@@ -1,0 +1,3 @@
+# Csak elso taroloban van torpedo - ALL
+GT4500,10,0,0,0
+TORPEDO,ALL

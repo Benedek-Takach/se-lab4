@@ -1,0 +1,4 @@
+# Masodik tarolo meghibasodik - SINGLE masodik tuzeles
+GT4500,10,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
